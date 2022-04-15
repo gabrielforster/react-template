@@ -1,8 +1,4 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+@use './reset.scss';
 
 html {
   @media (max-width: 1080px) {
@@ -15,22 +11,6 @@ html {
 }
 
 // color vars
-$background: #eee;
+$background: #dedede;
 $primary: #373D4F;
-$secondary: #9098AE;
-
-body {
-  background: $background;
-}
-
-*{
-  color: $primary;
-}
-
-a{
-  text-decoration: none;
-
-  &hover{
-    cursor: pointer;
-  }
-}
+$secondary: #6f7585;
