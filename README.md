@@ -4,8 +4,8 @@
 
 Criar um template com **dependências** pré-configuradas a fim de reduzir o trabalho na configuração de novos projetos. O que foi usado na estrutura deste template:
 
--  [Sass](https://sass-lang.com/)
--  [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 Também foram adicionadas as ferramentas [**ESLint**](https://eslint.org/) e [**Prettier**](https://prettier.io/) para aumentar a produtividade e a padronização do código.
 

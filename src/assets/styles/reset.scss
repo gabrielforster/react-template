@@ -1,19 +1,19 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 
-    color: $primary;
+  color: $primary;
 }
 
-body{
-    background-color: $background;
+body {
+  background-color: $background;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 
-    &hover{
-        cursor: pointer;
-    }
+  &hover {
+    cursor: pointer;
+  }
 }
